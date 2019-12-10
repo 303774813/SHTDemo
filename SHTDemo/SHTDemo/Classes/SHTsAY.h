@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface SHTsAY : NSObject
-
+- (void)sayhi;
 @end
 
 NS_ASSUME_NONNULL_END
