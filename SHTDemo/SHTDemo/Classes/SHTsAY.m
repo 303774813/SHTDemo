@@ -9,5 +9,8 @@
 #import "SHTsAY.h"
 
 @implementation SHTsAY
-
+- (void)sayhi
+{
+    NSLog(@"fegrb");
+}
 @end

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SHTDemo'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'efrgtbef'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,11 @@ wqeetrhteryery ertter
 
   s.ios.deployment_target = '8.0'
 
+<<<<<<< HEAD
   s.source_files = 'SHTDemo/Classes/*.{h,m}'
+=======
+  s.source_files = 'SHTDemo/Classes/*'
+>>>>>>> 70dfd6a16e8d5027ba75eb142af1f0b0ece43253
   
   # s.resource_bundles = {
   #   'SHTDemo' => ['SHTDemo/Assets/*.png']
