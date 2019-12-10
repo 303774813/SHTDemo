@@ -30,7 +30,7 @@ wqeetrhteryery ertter
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'SHTDemo/Classes/**/*'
+  s.source_files = 'SHTDemo/Classes/*.{h,m}'
   
   # s.resource_bundles = {
   #   'SHTDemo' => ['SHTDemo/Assets/*.png']
