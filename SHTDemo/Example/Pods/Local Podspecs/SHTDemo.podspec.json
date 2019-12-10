@@ -1,0 +1,22 @@
+{
+  "name": "SHTDemo",
+  "version": "0.1.0",
+  "summary": "A short description of SHTDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/303774813/SHTDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "303774813": "wangchao7@yiche.com"
+  },
+  "source": {
+    "git": "https://github.com/303774813/SHTDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SHTDemo/Classes/**/*"
+}

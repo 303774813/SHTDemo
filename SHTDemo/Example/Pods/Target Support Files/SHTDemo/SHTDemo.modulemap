@@ -1,0 +1,6 @@
+framework module SHTDemo {
+  umbrella header "SHTDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
